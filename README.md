@@ -2,6 +2,10 @@
 ## Solution architecure
 The toolchain required to build ToddLinux ISO and ToddLinux operating system should be hosted separetely. In order to speed up build process the toolchain should be easily accessible, prefferably in a form of an archive hosted by ToddLinux developers.
 
+### References
+- [mostlyportable gcc](https://github.com/Frogging-Family/mostlyportable-gcc)
+- [Linux From Scratch Book](https://www.linuxfromscratch.org/lfs/downloads/10.1/LFS-BOOK-10.1.pdf)
+
 ### Toolchain components
 No package management should be performed at toolchain level. \
 The single archive should contain:
