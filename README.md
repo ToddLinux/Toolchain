@@ -67,6 +67,6 @@ Software packages with minimum versions:
 - Xz 5.0.0
 
 Other requirements:
-- `/usr/bin/awk` should be a link to gawk
-- `/usr/bin/yacc` should be a link to bison
-- `/bin/sh` should be a symbolic or hard link to bash
+- `/usr/bin/awk` should be a symbolic link to gawk
+- `/usr/bin/yacc` should be a symbolic link to bison
+- `/bin/sh` should be a symbolic to bash
