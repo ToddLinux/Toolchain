@@ -5,6 +5,8 @@ The toolchain required to build ToddLinux ISO and ToddLinux operating system sho
 ### References
 - [mostlyportable gcc](https://github.com/Frogging-Family/mostlyportable-gcc)
 - [Linux From Scratch Book](https://www.linuxfromscratch.org/lfs/downloads/10.1/LFS-BOOK-10.1.pdf)
+- [Linux ABI stable symbols](https://www.kernel.org/doc/html/latest/admin-guide/abi-stable.html)
+- [Why is ABI Stability Important?](https://www.dpdk.org/blog/2019/10/10/why-is-abi-stability-important/)
 
 ### Toolchain components
 No package management should be performed at toolchain level. \
